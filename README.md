@@ -4,10 +4,10 @@
 
 ---
 
-### ✨ About Me
-- 🌱 Currently learning **Machine Learning** and **Math for AI**
-- 💻 Building real-world **coding projects** to sharpen my skills
-- 🎯 Long-term goal: **Build AI systems & launch a startup**
+###  About Me
+-  Currently learning **Machine Learning** and **Math for AI**
+-  Building real-world **coding projects** to sharpen my skills
+-  Long-term goal: **Build AI systems & launch a startup**
 
 ---
 

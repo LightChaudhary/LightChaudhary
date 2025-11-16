@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-**Aspiring AI Engineer| Computer Engineering Student**
+**Aspiring AI Engineer | Computer Engineering Student**
 
 ---
 

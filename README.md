@@ -1,13 +1,12 @@
 # Hey 👋 What's up?
 
-**Aspiring AI Engineer & Entrepreneur | Computer Engineering Student**
+**Aspiring AI Engineer| Computer Engineering Student**
 
 ---
 
 ###  About Me
 -  Currently learning **Machine Learning** and **Math for AI**
 -  Building real-world **coding projects** to sharpen my skills
--  Long-term goal: **Build AI systems & launch a startup**
 
 ---
 

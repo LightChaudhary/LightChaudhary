@@ -23,17 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LightChaudhary&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightChaudhary&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/prakash-chaudhary-light" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

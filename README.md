@@ -19,10 +19,5 @@ Itahari, Nepal | B.E. Computer Engineering (Second Year) | Aspiring AI/ML Engine
 
 ---
 
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightChaudhary&show_icons=true&theme=github-light&hide_border=true&count_private=true)
-
----
-
 > "The best time to plant a tree was 20 years ago. The second best time is now."  
 > Currently building foundations — open to feedback, resources, and meaningful collaborations.

@@ -1,6 +1,6 @@
 ### Hi there, I'm Prakash Chaudhary
 
-Nepal | B.E. Computer Engineering (Second Year) | Aspiring AI/ML Engineer  
+Nepal | B.E. Computer Engineering (Second Year) | Striving AI/ML Engineer  
 [LinkedIn](https://www.linkedin.com/in/prakash-chaudhary-light/) | [Email](mailto:02prakashchaudhary@gmail.com)
 
 ---

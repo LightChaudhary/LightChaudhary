@@ -1,1 +1,1 @@
-**Exploring deep learning, building neural networks.**
+Exploring deep learning, building neural networks.
